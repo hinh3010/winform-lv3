@@ -1,0 +1,17 @@
+F:\code_hnet\winform\day22-10\bin\Debug\net6.0-windows\day22-10.exe
+F:\code_hnet\winform\day22-10\bin\Debug\net6.0-windows\day22-10.deps.json
+F:\code_hnet\winform\day22-10\bin\Debug\net6.0-windows\day22-10.runtimeconfig.json
+F:\code_hnet\winform\day22-10\bin\Debug\net6.0-windows\day22-10.dll
+F:\code_hnet\winform\day22-10\bin\Debug\net6.0-windows\day22-10.pdb
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.csproj.AssemblyReference.cache
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22_10.Form1.resources
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.csproj.GenerateResource.cache
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.GeneratedMSBuildEditorConfig.editorconfig
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.AssemblyInfoInputs.cache
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.AssemblyInfo.cs
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.csproj.CoreCompileInputs.cache
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.dll
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\refint\day22-10.dll
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.pdb
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\day22-10.genruntimeconfig.cache
+F:\code_hnet\winform\day22-10\obj\Debug\net6.0-windows\ref\day22-10.dll
